@@ -30,20 +30,13 @@ How do you feel? Score yourself on the following symptoms listed below, based on
 
 Please Enter a Score from [0] to [6].
 Note: None [0], Mild[1-2], Moderate[3-4], Severe[5-6]
-
-Q1: Headache: 
-
-Q2: Pressure in head: 
-
-Q3: Neck pain: 
-
-Q4: Nausea or vomiting: 
-
-Q5: Dizziness: 
-
-Q6: Blurred vision: 
-
-...
+* Q1: Headache: 
+* Q2: Pressure in head: 
+* Q3: Neck pain: 
+* Q4: Nausea or vomiting: 
+* Q5: Dizziness: 
+* Q6: Blurred vision: 
+* ...
 
 #### The app will store data for the five most recent input. Athletes can see the symptoms summary for each game by selection Option 2, which includes
 
@@ -51,4 +44,9 @@ Q6: Blurred vision:
 * Symptom severity score (sum of the score for individual symptoms)
 * Overall rating ("no difference", "very different", "unsure") - by comparing the current input with the previous input
 
+#### If more than two input data is stored, Athletes and Medical Staff can select Option 3 to view the risk condition indicator. Different levels of risks will be displayed with different alert information and colors.
+
+* If no risk: Display a green image with a message
+* If unsure risk: Display a yellow image with a message
+* If servere risk: Display a red image with a message
 
