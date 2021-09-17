@@ -11,6 +11,8 @@ Build and run the main.java in your local IDE
 
 ### Example
 
+#### Welcome Page
+
 Welcome to Sport Concussion Assessment System!
 
 ******** Please select one of the following options ********
@@ -19,4 +21,26 @@ Welcome to Sport Concussion Assessment System!
 3. Am I at Risk? - Enter [3]
 4. Exit - Type [quit]
 
-If Option 1 is selected,
+#### If Option 1 is selected, twenty-two questions will be prompted for user inpu
+******** Evaluation Form ********
+
+How do you feel? Score yourself on the following symptoms listed below, based on how you feel now.
+
+Please Enter a Score from [0] to [6].
+Note: None [0], Mild[1-2], Moderate[3-4], Severe[5-6]
+
+Q1: Headache: 
+
+Q2: Pressure in head: 
+
+Q3: Neck pain: 
+
+Q4: Nausea or vomiting: 
+
+Q5: Dizziness: 
+
+Q6: Blurred vision: 
+
+...
+
+
